@@ -55,9 +55,7 @@ amazon-clone/
 ---
 
 ## Screenshots
-
-> <img width="1208" height="2225" alt="127 0 0 1_5500_AmazonClone html (1)" src="https://github.com/user-attachments/assets/9bf879c8-7ed3-4edb-b016-f41767b79527" />
-
+<img width="927" height="1697" alt="webpage_amazon" src="https://github.com/user-attachments/assets/9054d0c1-a580-4ec9-bd61-9d67a3d68970" />
 
 
 ---
