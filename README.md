@@ -66,7 +66,7 @@ amazon-clone/
 - Structuring complex multi-section layouts using **Flexbox**
 - Working with <img width="3000" height="1200" alt="hero_imge" src="https://github.com/user-attachments/assets/dbfc5d51-b1d5-4050-a3f8-e8e1d338fbe3" />
 , <img width="275" height="183" alt="image_9" src="https://github.com/user-attachments/assets/4425d43e-26d2-450c-8912-b1724b386e82" />
-, and <img width="275" height="183" alt="image_9" src="https://github.com/user-attachments/assets/7e1e0253-3309-4338-9474-a02c8670867d" />
+, and <img width="304" height="200" alt="box_7" src="https://github.com/user-attachments/assets/19d4da54-2f5d-48c4-8666-7ae3a517dc88" />
 `  like images for image boxes.
 - Building reusable UI components like navbars and footer columns in plain HTML/CSS
 - Hover effects and border interactions for interactive nav elements
